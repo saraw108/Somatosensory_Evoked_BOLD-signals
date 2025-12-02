@@ -8,14 +8,14 @@ The folder-structure follows this order:
 - Analysis
   - A: data conversion
     - Dicom to BIDS (nifti format) conversion
-    - Requirements: Dicom to BIDS toolbox ()
+    - Requirements: Dicom to BIDS toolbox
   - B: data preprocessing, including:
     - Realignment
     - Reordering 
     - Co-registration
     - Normaization
     - Smoothing
-    - Requirements: SPM12 (), hMRI toolbox ()
+    - Requirements: SPM12, hMRI toolbox
   - C: statistical analysis, including:
     - First-level FIR-analysis
     - First-level GLM
